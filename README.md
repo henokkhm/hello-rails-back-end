@@ -30,6 +30,8 @@
 
 This is a simple [Ruby on Rails](https://rubyonrails.org/) application that fetches a random greeting from the database, and returns it as JSON.
 
+> **Link to the frontend repository 👉 https://github.com/henokkhm/hello-react-front-end
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
